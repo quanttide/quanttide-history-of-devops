@@ -7,8 +7,6 @@
 命名遵循 `<brand>-<category>(-<framework/language>)` 的格式。
 比如：`qtcloud-data-provider`; `qtcloud-sdk-py`
 
-主要的品牌见"量潮品牌管理手册"。
-
 主要的类别包括：
 
 - `server`、`provider`: 服务端。后者特指云的服务端。
